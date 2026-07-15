@@ -2,10 +2,7 @@
 
 ## 📌 Overview
 
-This project is an end-to-end **E-Commerce Sales Analysis Dashboard** developed using **SQL** and **Power BI**. It analyzes sales data to uncover business insights, monitor key performance indicators (KPIs), and support data-driven decision-making.
-
-SQL was used for data extraction and analysis, while Power BI was used to build an interactive dashboard with dynamic filters and visualizations.
-
+This project is an end-to-end E-Commerce Sales Analysis Dashboard built using SQL and Power BI. It analyzes sales data to identify business trends, monitor key performance indicators (KPIs), and generate actionable insights. SQL was used for data extraction, cleaning, and analysis, while Power BI was used to create interactive dashboards and visualizations.
 ---
 
 
